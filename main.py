@@ -6,7 +6,7 @@ regra = {
     3: 'Tesoura'
 }
 
-APRESENTACAO = "Bem vindo ao jogo de Jokenpo!\n\nEscolha uma jogada:\n\n1-) Pedra\n2-) Papel\n3-) Tesoura"
+APRESENTACAO = "Olá, bem vindo ao jogo de Jokenpo!\n\nEscolha uma jogada:\n\n1-) Pedra\n2-) Papel\n3-) Tesoura"
 print(APRESENTACAO)
 
 player1 = int(input())
